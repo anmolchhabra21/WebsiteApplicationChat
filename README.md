@@ -1,7 +1,3 @@
-# FullStack Social Media App
-Complete React MERN Full Stack Social Media App
-
-
-For users who are looking to contribute, I'm planning to possibly create a separate branch for community contributions and additional features as well as for improvements and fixes.
-
-I haven't decided on the exact workflow I'll be using yet. But we'll get it out there soon!
+# WebsiteApplicationChat
+This repository was causing some errors so I am trying to solve it till then I am pushing to another respository https://github.com/anmolchhabra21/Updated_Chat_Web_App
+and constantly trying to resolve the error please go to this repository till then, especially for MLH Fellowship I am making these changes.
